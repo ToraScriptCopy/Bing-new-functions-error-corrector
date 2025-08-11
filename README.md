@@ -34,5 +34,5 @@ Bing-new-functions-error-corrector/
 ```
 
 ---
-**Author**: Your Name Here
+**Author**: ToraScriptCopy
 **License**: MIT
