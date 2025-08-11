@@ -17,7 +17,7 @@ but extendable to other future features.
 
 ## Requirements
 - Windows with PowerShell available
-- Python 3.8+
+- Python 3.13+
 - Internet connection for auto-installing missing dependencies
 
 ## Usage
